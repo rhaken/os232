@@ -18,3 +18,6 @@ ZCZC W03 50 L13 Assignment #03
 ZCZC W03 50 L70 Studying for other courses
 ZCZC W04 50 L14 Assignment #04
 ZCZC W04 50 L70 Studying for other courses
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 50 L15 Assignment #05
+ZCZC W05 50 L70 Studying for other courses
