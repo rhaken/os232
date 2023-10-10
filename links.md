@@ -11,7 +11,7 @@ This website has been very helpful for me in learning computer security.
   This website has good resources and example for learning File system storage.
 * [Website to understand pointer concept](https://www.geeksforgeeks.org/c-pointers/) --- 
   best website to undertand how pointer work.
-* [AI to help me with understanding operating system](https://bard.google.com/) --- 
+* [AI to help me with understanding operating system Version 2](https://bard.google.com/) --- 
 It helps me to understand operating system course with just typing some prompt
 <br>
 <hr>
