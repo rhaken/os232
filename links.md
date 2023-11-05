@@ -13,5 +13,7 @@ This website has been very helpful for me in learning computer security.
   best website to undertand how pointer work.
 * [AI to help me with understanding operating system Version 2](https://bard.google.com/) --- 
 It helps me to understand operating system course with just typing some prompt
+* [Website to understand OS](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/) --- 
+OS 😎😜
 <br>
 <hr>
