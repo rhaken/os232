@@ -1,7 +1,6 @@
 ---
 permalink: LINKS/
 ---
-
 # LINKS
 * [AI to help me with understanding operating system](https://chat.openai.com/) --- 
 It helps me to understand operating system course with just typing some prompt
@@ -15,5 +14,7 @@ This website has been very helpful for me in learning computer security.
 It helps me to understand operating system course with just typing some prompt
 * [Website to understand OS](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/) --- 
 This website has good resources and example for learning OS 😎😜
+* [Full Course OS](https://www.youtube.com/watch?v=mXw9ruZaxzQ) --- 
+Full Course OS 😎
 <br>
 <hr>
