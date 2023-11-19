@@ -16,5 +16,7 @@ It helps me to understand operating system course with just typing some prompt
 This website has good resources and example for learning OS 😎😜
 * [Full Course OS](https://www.youtube.com/watch?v=mXw9ruZaxzQ) --- 
 Full Course OS 😎
+* [Video to undertand linux](https://www.youtube.com/watch?v=uggsnHSELos) ---
+nice video 👍
 <br>
 <hr>
